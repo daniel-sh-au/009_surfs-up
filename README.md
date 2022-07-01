@@ -3,7 +3,7 @@
 ## Overview of the Analysis
 
 ### Purpose
-Since W. Avy, the investor for our project, requested additional information regarding temperature trends, an analysis was completed to determine if the surf and ice cream shop business would be sustainable year-round. By extracting temperature data from the hawaii.sqlite database for the months of June and December, we can predict the successfulness of the the business. 
+Since W. Avy, the investor for our project, requested additional information regarding temperature trends, an analysis was completed to determine if the surf and ice cream shop business would be sustainable year-round. By extracting temperature data from the hawaii.sqlite database for the months of June and December, we can predict the successfulness of the business. 
 
 ### Resources
 * Jupyter Notebook, Python 3.7.13
@@ -12,13 +12,13 @@ Since W. Avy, the investor for our project, requested additional information reg
 * Challenge Code: [SurfsUp_Challenge.ipynb](https://github.com/daniel-sh-au/UofT_DataBC_Module09_surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 
 ## Results
-Summaries for June temperature and December temperature are shown in the table below: 
+Statistical summaries for June temperatures and December temperatures are shown in the table below: 
 
 | June Temps Summary | December Temps Summary |
 | ------------------ | ---------------------- |
 | ![Summary_June_Temps.png](https://github.com/daniel-sh-au/UofT_DataBC_Module09_surfs_up/blob/main/Resources/Summary_June_Temps.png) | ![Summary_Dec_Temps.png](https://github.com/daniel-sh-au/UofT_DataBC_Module09_surfs_up/blob/main/Resources/Summary_Dec_Temps.png) |
 
-* From the summary statistics, it can be observed that June has a higher average temperature then December. June has an average temperature of 74.94°F and December has an average temperature of 71.04°F. 
+* From the summary statistics, it can be observed that June has a higher average temperature than December. June has an average temperature of 74.94°F and December has an average temperature of 71.04°F. 
 * The temperature in June can range between 64°F and 85°F, which is a 21°F difference. The temperature in December can range between 56°F and 83°F, which is a 27°F difference. 
 * In addition to the previous observation, December having the larger temperature range is reflected in the standard deviation of each dataset. December temperatures have a higher standard deviation of 3.75 than June temperatures which have a standard deviation of 3.26. 
 
